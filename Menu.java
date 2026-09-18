@@ -19,7 +19,7 @@ public final class Menu {
         new Plat("Tarte aux pommes", Categorie.DESSERT, 130, true),
         new Plat("Mousse au chocolat", Categorie.DESSERT, 120, true),
         new Plat("Salade de fruits", Categorie.DESSERT, 110, true),
-        new Plat("Foret noire", Categorie.DESSERT, 350, true)
+        new Plat("Foret noire", Categorie.DESSERT, 350, true),
         new Plat("Tarte framboise", Categorie.DESSERT, 300, true)
     };
 
