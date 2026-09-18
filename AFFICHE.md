@@ -2,8 +2,8 @@
 
 ## Composition
 
-Nombre de plats : 6
+Nombre de plats : 9
 
 ## Tarifs
 
-Total du menu : 880 centimes
+Total du menu : 1240 centimes
